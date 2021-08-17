@@ -14,6 +14,6 @@
         @yield('content')
       </main>
     </div>
-    <!-- is voor vue !! include('layouts.footer') -->
+    @include('layouts.footer')
   </body>
 </html>

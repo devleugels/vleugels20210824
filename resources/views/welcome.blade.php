@@ -16,6 +16,10 @@
     <h1 class="text-center w-screen">welkom</h1>
 
     <x-test></x-test>
+
+    <!-- vue test -->
+    <h1>we testen Vue3</h1>
+    <example-component></example-component>
 </div>
 
 @endsection
