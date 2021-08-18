@@ -20,6 +20,8 @@
     <!-- vue test -->
     <h1>we testen Vue3</h1>
     <example-component></example-component>
+
+    <button class="btn btn-primary">DaisyUI Button</button>
 </div>
 
 @endsection
